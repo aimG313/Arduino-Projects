@@ -13,7 +13,7 @@
  | 7  |Jumperwires|  As required    |
  ---
 ## ***Index of Projects:***
-1. [Project-1: Arduino Board Cleaning](https://github.com/aimG313/Arduino-Projects/tree/main/Project_1_Arduino_Board_Cleaning)
-2. [Project-1: LED Light Blinking using Arduino](https://github.com/aimG313/Arduino-Projects/tree/main/Project_2_LED_light_blinking_using_Arduino)
+1. Project-1: [Arduino Board Cleaning](https://github.com/aimG313/Arduino-Projects/tree/main/Project_1_Arduino_Board_Cleaning)
+2. Project-2: [LED Light Blinking using Arduino](https://github.com/aimG313/Arduino-Projects/tree/main/Project_2_LED_light_blinking_using_Arduino)
    
    
