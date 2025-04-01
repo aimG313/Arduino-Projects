@@ -1,10 +1,2 @@
 .vscode
-core/
-libraries/
-sketch/
-*.json
-*.cache
-*.hex
-*.bin
-*.elf
-*.eep
+build/
