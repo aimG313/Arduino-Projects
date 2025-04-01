@@ -2,7 +2,7 @@
  - This repository contains all of my project using **[Arduino Uno Microcontroller](https://docs.arduino.cc/hardware/uno-rev3)**.
    
  ***Tools Requirement:***
- | No | Tool Name | Quantity | 
+ | Serial | Tool Name | Quantity | 
  |----|-----------|----------|
  | 1  |Arduino Uno R3|  1    |
  ---
