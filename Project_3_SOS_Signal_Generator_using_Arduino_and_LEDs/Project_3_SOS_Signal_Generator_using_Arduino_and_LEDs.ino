@@ -23,12 +23,6 @@ void setup()
   lcd.backlight(); // Turn on backlight
   lcd.clear(); // Clear any initial garbage
 
-  // lcd.setCursor(0, 0);
-  // lcd.print("SOS Signal");
-  // lcd.setCursor(0, 1);
-  // lcd.print("Generator");
-  // delay(2000); // Display for 2 seconds
-  // lcd.clear();
 }
 
 void loop() {
