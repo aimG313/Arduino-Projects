@@ -22,28 +22,40 @@ void setup()
   lcd.init();      // Initialize LCD
   lcd.backlight(); // Turn on backlight
   lcd.clear(); // Clear any initial garbage
+
+  // lcd.setCursor(0, 0);
+  // lcd.print("SOS Signal");
+  // lcd.setCursor(0, 1);
+  // lcd.print("Generator");
+  // delay(2000); // Display for 2 seconds
+  // lcd.clear();
 }
 
 void loop() {
 
+  lcd.setCursor(0, 0);
+  lcd.print("SOS Morse Code");
+  delay(1000);
+  lcd.clear();
+
   // S
   digitalWrite(pin, HIGH);
   lcd.setCursor(0, 0);
-  lcd.print("*");
+  lcd.print(".");
   delay(s_active);
   digitalWrite(pin, LOW);
   delay(s_sleep);
 
   digitalWrite(pin, HIGH);
   lcd.setCursor(1, 0);
-  lcd.print("*");
+  lcd.print(".");
   delay(s_active);
   digitalWrite(pin, LOW);
   delay(s_sleep);
 
   digitalWrite(pin, HIGH);
   lcd.setCursor(2, 0);
-  lcd.print("*");
+  lcd.print(".");
   delay(s_active);
   digitalWrite(pin, LOW);
   lcd.clear();
@@ -59,14 +71,14 @@ void loop() {
   delay(o_sleep);
   
   digitalWrite(pin, HIGH);
-  lcd.setCursor(1, 0);
+  lcd.setCursor(2, 0);
   lcd.print("-");
   delay(o_active);
   digitalWrite(pin, LOW);
   delay(o_sleep);
 
   digitalWrite(pin, HIGH);
-  lcd.setCursor(2, 0);
+  lcd.setCursor(4, 0);
   lcd.print("-");
   delay(o_active);
   digitalWrite(pin, LOW);
@@ -77,28 +89,28 @@ void loop() {
 
   digitalWrite(pin, HIGH);
   lcd.setCursor(0, 0);
-  lcd.print("*");
+  lcd.print(".");
   delay(s_active);
   digitalWrite(pin, LOW);
   delay(s_sleep);
 
   digitalWrite(pin, HIGH);
   lcd.setCursor(1, 0);
-  lcd.print("*");
+  lcd.print(".");
   delay(s_active);
   digitalWrite(pin, LOW);
   delay(s_sleep);
 
   digitalWrite(pin, HIGH);
   lcd.setCursor(2, 0);
-  lcd.print("*");
+  lcd.print(".");
   delay(s_active);
   digitalWrite(pin, LOW);
   lcd.clear();
   delay(s_sleep);
 
-  lcd.setCursor(0, 0);
-  lcd.print("SOS Morse Code");
+  
   delay(reset);
   lcd.clear();
 }
+
