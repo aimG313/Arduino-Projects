@@ -20,3 +20,4 @@ An **SOS Signal Generator** is a device or software that generates the internati
 |    5   |LED|     1    | 
 |    6   |Resistor|     1    | 
 |    7   |Jumper Wires|     2    | 
+|    8   |LCD Display|     1    | 
