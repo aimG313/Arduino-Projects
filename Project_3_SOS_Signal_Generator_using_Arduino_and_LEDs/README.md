@@ -10,6 +10,9 @@ An **SOS Signal Generator** is a device or software that generates the internati
 
  - ### Circuit Diagram:
 ![ckt_diagram](https://github.com/aimG313/Arduino-Projects/blob/main/Project_3_SOS_Signal_Generator_using_Arduino_and_LEDs/Project_3_ckt_diagram.png)
+
+- ### Project Code:
+  [Click Here](https://github.com/aimG313/Arduino-Projects/blob/main/Project_3_SOS_Signal_Generator_using_Arduino_and_LEDs/Project_3_SOS_Signal_Generator_using_Arduino_and_LEDs.ino)
    
   
 - ### Project Video:
