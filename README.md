@@ -1,3 +1,4 @@
+![Arduino Projects](https://github.com/aimG313/Arduino-Projects/blob/main/arduino%20projects.jpg)
 # Arduino Projects
  - This repository contains all of my project using **[Arduino Uno Microcontroller](https://docs.arduino.cc/hardware/uno-rev3)**.
    
