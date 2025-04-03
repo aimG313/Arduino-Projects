@@ -9,6 +9,8 @@ An **SOS Signal Generator** is a device or software that generates the internati
 
  `... --- ...` (SOS) in Morse code. It can be implemented using hardware circuits (e.g., Arduino, Raspberry Pi) or software (e.g., Python, C++) to produce visual (LED), audio (buzzer/speaker), or radio signals for emergency communication.
 
+- ### Project Video:
+  [Visit Linkedin](https://www.linkedin.com/posts/ashraful-islam-mahi_arduino-morsecode-embeddedsystems-activity-7313505257504788480-7Kwk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERwriAByocKi2EzeS0JwnKiNz6Jnd70_ck)
 
 - ### ***Tool Requirement :***
 | Serial | Tool Name | Quantity |
