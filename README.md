@@ -10,8 +10,9 @@
  | 3  |PC/Laptop|  1    |
  | 4 |Breadboard|  1    |
  | 5  |LED|  As required    |
- | 6  |Resistor|  As required    |
- | 7  |Jumperwires|  As required    |
+ | 6  |LCD display|  1    |
+ |   |Resistor|  As required    |
+ |   |Jumperwires|  As required    |
  ---
 ## ***Index of Projects:***
 1. Project-1: [Arduino Board Cleaning](https://github.com/aimG313/Arduino-Projects/tree/main/Project_1_Arduino_Board_Cleaning)
