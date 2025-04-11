@@ -1,6 +1,6 @@
 ![SOS](https://github.com/aimG313/Arduino-Projects/blob/main/Project_3_SOS_Signal_Generator_using_Arduino_and_LEDs/SOS.jpg)
 # Project-3: SOS Signal Generator using Arduino & LEDs
-- ### ***Project Purpose:*** Understand the implementation of Binary numbers using Arduino by making a real life project.
+- ### ***Project Purpose:*** Understand the implementation of Morse Code using Arduino by making a real life project.
 
 - ### What is an *SOS Signal Generator*?
 
