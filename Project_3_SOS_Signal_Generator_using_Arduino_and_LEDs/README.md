@@ -18,7 +18,7 @@ An **SOS Signal Generator** is a device or software that generates the internati
 - ### Project Video:
   [Visit Linkedin](https://www.linkedin.com/posts/ashraful-islam-mahi_arduino-morsecode-embeddedsystems-activity-7313505257504788480-7Kwk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERwriAByocKi2EzeS0JwnKiNz6Jnd70_ck)
 
-- ### ***Tool Requirement :***
+- ### Tool Requirement :
 | Serial | Tool Name | Quantity |
 |--------|-----------|----------|
 |    1   |Arduino Uno|     1    | 
