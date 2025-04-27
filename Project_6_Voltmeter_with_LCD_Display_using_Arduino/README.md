@@ -3,8 +3,8 @@
 ---
 
 - ### Project Overview:
-  [Visit Linkedin]()
-  
+  [Visit Linkedin](https://www.linkedin.com/posts/ashraful-islam-mahi_arduino-iot-electronics-activity-7322316686328483840-3tkE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERwriAByocKi2EzeS0JwnKiNz6Jnd70_ck)
+
 - ### Project Code:
   [Click Here](Project_6_Voltmeter_with_LCD_Display_using_Arduino.ino)
 
