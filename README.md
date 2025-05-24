@@ -20,5 +20,6 @@
 3. Project-3: [SOS Signal Generator using Arduino & LEDs](https://github.com/aimG313/Arduino-Projects/tree/main/Project_3_SOS_Signal_Generator_using_Arduino_and_LEDs)
 4. Project-4: [4 bit Binary Counter using Arduino](https://github.com/aimG313/Arduino-Projects/tree/main/Project_4_4_bit_binary_counter)
 5. Project-5: [RGB Brightness Controll Using Arduino Uno](https://github.com/aimG313/Arduino-Projects/tree/main/Project_5_LED_Brightness_Control_with_Arduino)
+6. Project-6: [Digital Voltmeter with LCD Display using Arduino](https://github.com/aimG313/Arduino-Projects/tree/main/Project_6_Voltmeter_with_LCD_Display_using_Arduino)
    
    
