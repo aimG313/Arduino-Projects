@@ -39,21 +39,21 @@ void loop()
 
   // --- 3) Print to Serial ---
   Serial.print("Supplied Voltage: ");
-  Serial.print(intensity, 2);
+  Serial.print(intensity);
   Serial.print(" V  |  Measured: ");
-  Serial.print(measuredV, 2);
+  Serial.print(measuredV);
   Serial.println(" V");
 
   // --- 4) Display on LCD ---
   lcd.clear();
   lcd.setCursor(0, 0);
   lcd.print("Supplied  :");
-  lcd.print(intensity, 2);
+  lcd.print(intensity);
   lcd.print("V");
 
   lcd.setCursor(0, 1);
   lcd.print("Measured  :");
-  lcd.print(measuredV, 2);
+  lcd.print(measuredV);
   lcd.print("V");
 
   delay(DELAY_MS);
